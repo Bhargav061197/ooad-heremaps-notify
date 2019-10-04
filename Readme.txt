@@ -6,7 +6,7 @@ Prerequisites
 Working
     1. Linux
         1. Install flask using sudo apt install python3-flask
-        2. open bash terminal in Udaanhome folder and type "source setup.sh" without quotes .
+        2. open bash terminal in ooad folder and type "source setup.sh" without quotes .
         3. Server starts and do visit http://127.0.0.1:5000/(followed by operation)
         4 .(Troubleshoot) If pip has issues , change pip to pip3 in setup.sh
 
